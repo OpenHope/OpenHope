@@ -125,7 +125,7 @@ The requirement to give the half of the income to other users should motivate ma
 - "The New Rules for Playing in Microsoft's Open Source Sandbox" [[article](https://aaronstannard.com/new-rules-dotnet-oss/)]
 - "Let’s talk about open source sustainability" [[article](https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/)]
 - Basically everything from [Nadia Eghbal](https://nadiaeghbal.com/oss/), e.g.:
-   - "Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure" [[free ebook]((https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/))]
+   - "Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure" [[free ebook](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)]
    - "The Making and Maintenance of our Open Source Infrastructure" [[video](https://www.youtube.com/watch?v=5wLKnN3To-k)]
    - "Open Source Survey" [[article](https://opensourcesurvey.org/2017/)]
    - "Rebuilding the cathedral" [[slides](https://www.slideshare.net/NadiaEghbal/rebuilding-the-cathedral), [video](https://www.youtube.com/watch?v=VS6IpvTWwkQ)]
@@ -136,7 +136,7 @@ The requirement to give the half of the income to other users should motivate ma
 # Authors
 
 - Awesome community 
-  - Thanks [@thedodd](https://github.com/thedodd), [@arn-the-long-beard](https://github.com/arn-the-long-beard), [@pythoneer](https://github.com/pythoneer), [@strowk](https://github.com/strowk), `Tomciik` and others for the first round of feedback for the idea!
+  - Thanks [@thedodd](https://github.com/thedodd), [@arn-the-long-beard](https://github.com/arn-the-long-beard), [@pythoneer](https://github.com/pythoneer), [@strowk](https://github.com/strowk), [@TomciikL](https://github.com/TomciikL) and others for the first round of feedback for the idea!
 - Martin Kavík 
   - [Seed](https://seed-rs.org/) maintainer, [Rust](https://www.rust-lang.org/) freelance developer
   - OpenHope and [MoonZoon](http://moonzoon.rs/) founder
