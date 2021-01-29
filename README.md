@@ -19,7 +19,7 @@
 ---
 
 <p align="right">
-  <img src="docs/images/Micro X-ray of two flowers.jpg" width="360" title="Micro X-ray of two flowers">
+  <img src="docs/images/Micro X-ray of two flowers.png" width="360" title="Micro X-ray of two flowers">
 </p>
 
 # How OpenHope works
@@ -41,7 +41,7 @@ _Note:_ The project is in the design phase. All features and principles are open
 ---
 
 <p align="center">
-  <img src="docs/images/Burn your problems.jpg" width="360" title="Burn your problems">
+  <img src="docs/images/Burn your problems.png" width="360" title="Burn your problems">
 </p>
 
 # What problems OpenHope solves
@@ -75,7 +75,7 @@ We need these people to make our technology infrastructure secure and stable.
 ---
 
 <p align="left">
-  <img src="docs/images/Water lightbulb.jpg" width="360" title="Water lightbulb">
+  <img src="docs/images/Water lightbulb.png" width="360" title="Water lightbulb">
 </p>
 
 # How OpenHope solves the problems
@@ -110,7 +110,7 @@ The requirement to give the half of the income to other users should motivate ma
 ---
 
 <p align="center">
-  <img src="docs/images/42.jpg" width="360" title="42">
+  <img src="docs/images/42.png" width="360" title="42">
 </p>
 
 # FAQ
@@ -135,7 +135,7 @@ The requirement to give the half of the income to other users should motivate ma
 ---
 
 <p align="right">
-  <img src="docs/images/Vintage typewriter.jpg" width="360" title="Vintage typewriter">
+  <img src="docs/images/Vintage typewriter.png" width="360" title="Vintage typewriter">
 </p>
 
 # Related articles, videos and books
@@ -156,7 +156,7 @@ The requirement to give the half of the income to other users should motivate ma
 ---
 
 <p align="center">
-  <img src="docs/images/Boat.jpg" width="360" title="Boat">
+  <img src="docs/images/Boat.png" width="360" title="Boat">
 </p>
 
 # Authors
@@ -164,14 +164,13 @@ The requirement to give the half of the income to other users should motivate ma
 - Awesome community 
   - Thanks [@thedodd](https://github.com/thedodd), [@arn-the-long-beard](https://github.com/arn-the-long-beard), [@pythoneer](https://github.com/pythoneer), [@strowk](https://github.com/strowk), [@TomciikL](https://github.com/TomciikL) and others for the first round of feedback for the idea!
 - Martin Kavík 
-  - [Seed](https://seed-rs.org/) maintainer, [Rust](https://www.rust-lang.org/) freelance developer
-  - OpenHope and [MoonZoon](http://moonzoon.rs/) founder
+  - [Seed](https://seed-rs.org/) maintainer, [Rust](https://www.rust-lang.org/) freelance developer, [MoonZoon](http://moonzoon.rs/) creator
   - [martin@openhope.net](mailto:martin@openhope.net) ; [OpenHope Discord](https://discord.gg/W8RZFB3BgR)
 
 ---
 
 <p align="left">
-  <img src="docs/images/Analog photo film reel.jpg" width="360" title="Analog photo film reel">
+  <img src="docs/images/Analog photo film reel.png" width="360" title="Analog photo film reel">
 </p>
 
 # Photos
