@@ -182,3 +182,7 @@ The requirement to give the half of the income to other users should motivate ma
 1. [Vintage typewriter](https://unsplash.com/photos/mk7D-4UCfmg) by Florian Klauer
 1. [Boat](https://unsplash.com/photos/Dph00R2SwFo) by Matteo Vistocco
 1. [Analog photo film reel](https://unsplash.com/photos/g4tW1MHcy3o) by Markus Spiske
+
+---
+
+Thank you for reading! We are waiting for you on [Discord](https://discord.gg/W8RZFB3BgR).
