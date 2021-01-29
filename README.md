@@ -18,6 +18,10 @@
 
 ---
 
+<p align="right">
+  <img src="docs/images/Micro X-ray of two flowers.jpg" width="360" title="Micro X-ray of two flowers">
+</p>
+
 # How OpenHope works
 
 - Each member has a public profile on the platform.
@@ -35,6 +39,10 @@
 _Note:_ The project is in the design phase. All features and principles are open to discussion on [Discord](https://discord.gg/W8RZFB3BgR).
 
 ---
+
+<p align="center">
+  <img src="docs/images/Burn your problems.jpg" width="360" title="Burn your problems">
+</p>
 
 # What problems OpenHope solves
 
@@ -63,6 +71,12 @@ We need these people to make our technology infrastructure secure and stable.
 > "..., he had “always assumed, (as had the rest of the world) that the OpenSSL team was large, active, and well resourced.” In reality, OpenSSL wasn’t even able to support one person’s work."
 >
 > \- From the book [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
+
+---
+
+<p align="left">
+  <img src="docs/images/Water lightbulb.jpg" width="360" title="Water lightbulb">
+</p>
 
 # How OpenHope solves the problems
 
@@ -95,6 +109,10 @@ The requirement to give the half of the income to other users should motivate ma
 
 ---
 
+<p align="center">
+  <img src="docs/images/42.jpg" width="360" title="42">
+</p>
+
 # FAQ
 
 1. _"All open-source code and related things should be free!"_
@@ -116,6 +134,10 @@ The requirement to give the half of the income to other users should motivate ma
 
 ---
 
+<p align="right">
+  <img src="docs/images/Vintage typewriter.jpg" width="360" title="Vintage typewriter">
+</p>
+
 # Related articles, videos and books
 
 - "Recap of the \`funding\` experiment" [[article](https://feross.org/funding-experiment-recap/)]
@@ -133,6 +155,10 @@ The requirement to give the half of the income to other users should motivate ma
 
 ---
 
+<p align="center">
+  <img src="docs/images/Boat.jpg" width="360" title="Boat">
+</p>
+
 # Authors
 
 - Awesome community 
@@ -141,3 +167,19 @@ The requirement to give the half of the income to other users should motivate ma
   - [Seed](https://seed-rs.org/) maintainer, [Rust](https://www.rust-lang.org/) freelance developer
   - OpenHope and [MoonZoon](http://moonzoon.rs/) founder
   - [martin@openhope.net](mailto:martin@openhope.net) ; [OpenHope Discord](https://discord.gg/W8RZFB3BgR)
+
+---
+
+<p align="left">
+  <img src="docs/images/Analog photo film reel.jpg" width="360" title="Analog photo film reel">
+</p>
+
+# Photos
+
+1. [Micro X-ray of two flowers](https://unsplash.com/photos/1MwH5EGo26Q) by Mathew Schwartz
+1. [Burn your problems](https://unsplash.com/photos/D1QI9bx8KUM) by Sebastiaan Stam
+1. [Water lightbulb](https://unsplash.com/photos/N7FtpkC_P7o) by Sharon Pittaway
+1. [42](https://unsplash.com/photos/fbKMKNVJjwo) by Mark König
+1. [Vintage typewriter](https://unsplash.com/photos/mk7D-4UCfmg) by Florian Klauer
+1. [Boat](https://unsplash.com/photos/Dph00R2SwFo) by Matteo Vistocco
+1. [Analog photo film reel](https://unsplash.com/photos/g4tW1MHcy3o) by Markus Spiske
