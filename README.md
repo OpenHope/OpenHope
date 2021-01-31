@@ -52,7 +52,7 @@ _Note:_ The project is in the design phase. All features and principles are open
 
 Creators and project authors are intrinsically motivated and driven by passion for creating things and by gaining the reputation. 
 
-They are willing to create for free. However, this often leads to burnout, poor or non-existent documentation and even abandonment of the successful project.
+They are willing to create for free. However, this often leads to burnout, poor documentation and even abandonment of the successful project.
 
 > "Do you work full time on the project?" "I have done for a year or two, but recently I ran out of money and had to find employment."
 >
@@ -64,7 +64,7 @@ So we have to provide an extrinsic (financial) motivation to allow project autho
 >
 > \- Alex Younger in the issue for the project [Tailblocks](https://github.com/mertJF/tailblocks/issues/57)
 
-Skillful creators and maintainers should not be forced to choose between working for one company on a closed-source code for money or teaching and working on useful projects for everyone for free.
+Skillful creators and maintainers should not be forced to choose between working for one company on a closed-source code for money OR teaching and working on useful projects for everyone for free.
 
 We need these people to make our technology infrastructure secure and stable.
 
@@ -118,9 +118,9 @@ The requirement to give the half of the income to other users should motivate ma
 1. _"All open-source code and related things should be free!"_
    - It's not that simple. I recommend to read related articles and studies in the next section. I think creators cannot work on public projects for free, until everybody has _Universal basic income_.
 
-1. _"Why paywall and not multi-licensing / donations / marketplace / ads / paid support / bounties / ...?"_
-   - I like simple things. I don't like ads. Donations don't work well enough. The marketplace is almost impossible to make universal, etc.
-   - It doesn't affect project repositories or code or licenses at all.
+1. _"Why a paywall and not multi-licensing / donations / marketplace / ads / paid support / bounties / ...?"_
+   - I like simple things. I don't like ads. Donations don't work well enough. Bounties may cause low-quality contributions and adding unnecessary features, etc.
+   - The paywall don't affect project repositories, code or licenses at all.
    - Google takes paywalls into account, so SEO is possible. Read the article [Paywalls, SEO, and the Need for a Damn Good Brand](https://cxl.com/blog/paywall-seo/).
    
 1. _"I don't want to hide all my stuff behind the paywall."_
@@ -133,7 +133,7 @@ The requirement to give the half of the income to other users should motivate ma
    - I would like to write it in Rust with [MoonZoon](http://moonzoon.rs/). Another option would be something like [Seed](https://seed-rs.org/) and [Actix](https://actix.rs/).
 
 1. _"What is the next step?"_
-   - I would like to to write detailed OpenHope specifications based on the community feedback.
+   - Write detailed OpenHope specifications based on the community feedback.
 
 1. _"Could I help somehow? / Where can I find more information?_"
     - Join our [Discord chat](https://discord.gg/W8RZFB3BgR) and don't hesitate to ask any questions or present your ideas.
