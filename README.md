@@ -116,10 +116,18 @@ The requirement to give the half of the income to other users should motivate ma
 # FAQ
 
 1. _"All open-source code and related things should be free!"_
-   - Until everybody has _Universal basic income_, creators cannot work on public projects for free.
+   - It's not that simple. I recommend to read related articles and studies in the next section. I think creators cannot work on public projects for free, until everybody has _Universal basic income_.
 
 1. _"Why paywall and not multi-licensing / donations / marketplace / ads / paid support / bounties / ...?"_
    - I like simple things. I don't like ads. Donations don't work well enough. The marketplace is almost impossible to make universal, etc.
+   - It doesn't affect project repositories or code or licenses at all.
+   - Google takes paywalls into account, so SEO is possible. Read the article [Paywalls, SEO, and the Need for a Damn Good Brand](https://cxl.com/blog/paywall-seo/).
+   
+1. _"I don't want to hide all my stuff behind the paywall."_
+   - You don't have to, you can make your materials visible to the public. However, members-only access is recommended to motivate your audience to support you by sending Hopes.
+   
+1. _"I've already created a website for my project and other stuff. How can I migrate to OpenHope?"_
+   - You can just add links to your website and materials and recreate them in OpenHope later.
 
 1. _"What technology do you want to use for writing OpenHope?"_
    - I would like to write it in Rust with [MoonZoon](http://moonzoon.rs/). Another option would be something like [Seed](https://seed-rs.org/) and [Actix](https://actix.rs/).
