@@ -12,6 +12,10 @@
 
 \- [Feross Aboukhadijeh](https://feross.org/funding-experiment-recap/)
 
+### _"The idea that great developers would create great software for free and give it away to all humanity 'just because' was always flawed."_
+
+\- [The Sharp Ninja](https://sharpninja.medium.com/over-15-years-ago-i-was-writing-for-it-toolbox-and-screaming-at-the-top-of-my-lungs-how-open-4e7168959542)
+
 ---
 
 **OpenHope** is a platform for open-source developers and their project users. It helps OS projects thrive and to make everyone satisfied.
