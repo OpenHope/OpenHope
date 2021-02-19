@@ -22,6 +22,12 @@
 
 ---
 
+# Blog
+
+- Open-Source Roads [[Medium](https://martinkavik.medium.com/open-source-roads-efc6042ee57d) / [dev.to](https://dev.to/martinkavik/open-source-roads-10a) / [MD](docs/articles/open_source_roads.md)]
+
+---
+
 <p align="right">
   <img src="docs/images/Micro X-ray of two flowers.png" width="360" title="Micro X-ray of two flowers">
 </p>

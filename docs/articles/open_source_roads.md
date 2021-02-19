@@ -19,7 +19,7 @@ However the most of interactions with the drivers represents shouting requests f
 Does it sound absurd? Welcome to the world of open-source!
 
 <p align="center">
-  <img src="images/os.png" width="250" title="OpenHope logo">
+  <img src="images/os.png" width="250" title="OS chain">
 </p>
 
 **How can we ensure quality roads and not create voluntary slavery during the process?**
