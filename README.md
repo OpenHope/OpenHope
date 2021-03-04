@@ -164,6 +164,8 @@ The requirement to give the half of the income to other users should motivate ma
 - "How to Build Sustainable Open Source Software Projects" [[article](https://aaronstannard.com/sustainable-open-source-software/)]
 - "The New Rules for Playing in Microsoft's Open Source Sandbox" [[article](https://aaronstannard.com/new-rules-dotnet-oss/)]
 - "Let’s talk about open source sustainability" [[article](https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/)]
+- "Death of an Open Source Business Model" [[article](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b)]
+- "The Golden Age of Open Source is Over" [[article](https://malloc.fi/golden-age-of-open-source-over)]
 - Basically everything from [Nadia Eghbal](https://nadiaeghbal.com/oss/), e.g.:
    - "Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure" [[free ebook](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)]
    - "The Making and Maintenance of our Open Source Infrastructure" [[video](https://www.youtube.com/watch?v=5wLKnN3To-k)]
